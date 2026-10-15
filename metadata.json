@@ -1,0 +1,6 @@
+{
+  "name": "Computer Repair Shop Management System",
+  "description": "System Integration and Architecture (SIA1) web-based management system for computer repair shops with customers, devices, repair jobs, services, payments, reports, and Python/MySQL architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
